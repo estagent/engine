@@ -1,4 +1,4 @@
-import {request} from './setup'
+import {request} from './http'
 
 export default function (options = {}) {
     const {path, cast, transform, loaders} = options
