@@ -1,7 +1,7 @@
 {
   "name": "@revgaming/engine",
   "author": "estagent <estagent@gmail.com>",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "homepage": "https://github.com/estagent/engine",
   "description": "prefetch engine",
   "main": "index.js",
